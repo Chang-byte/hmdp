@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b60b5460-f6b2-473b-8ee7-ab2c959e9077" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/config/MvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/config/MybatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/config/MybatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/config/RedissonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/config/RedissonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/config/WebExceptionAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/config/WebExceptionAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/controller/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/dto/LoginFormDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/dto/LoginFormDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/dto/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/dto/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/dto/ScrollResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/dto/ScrollResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/entity/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/entity/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/service/impl/ShopServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/service/impl/ShopServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/service/impl/VoucherServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/service/impl/VoucherServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/CacheClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/CacheClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/RedisIdWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/RedisIdWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/RefreshTokenInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/RefreshTokenInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/SimpleRedisLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/SimpleRedisLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/UserHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hmdp/utils/UserHolder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="NewLua" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Development/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Development\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GWLPADPRSaYPScwHbsBNU6oxPX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "last_opened_file_path": "D:/SpringCode/RedisDemo/hm-dianping/src/main/java/com/hmdp/utils",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "4389a84bcc0f18bc760150e6e378da4a",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SpringCode\RedisDemo\hm-dianping\src\main\java\com\hmdp\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HmDianPingApplicationTests.testHyperLogLog">
+    <configuration name="HmDianPingApplicationTests.loadShopData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="loadShopData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplicationTests.testHyperLogLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="testHyperLogLog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplicationTests.testRedisIdWorker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="testRedisIdWorker" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplicationTests.testStrJoin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="testStrJoin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplicationTests.testSvaeShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="testSvaeShop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplication 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="false" />
+      <module name="hm-dianping" />
+      <selectedOptions>
+        <option name="environmentVariables" />
+      </selectedOptions>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmdp.HmDianPingApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="false" />
+      <module name="hm-dianping" />
+      <selectedOptions>
+        <option name="environmentVariables" />
+      </selectedOptions>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmdp.HmDianPingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HmDianPingApplicationTests.testHyperLogLog" />
+        <item itemvalue="JUnit.HmDianPingApplicationTests.loadShopData" />
+        <item itemvalue="JUnit.HmDianPingApplicationTests.testStrJoin" />
+        <item itemvalue="JUnit.HmDianPingApplicationTests.testRedisIdWorker" />
+        <item itemvalue="JUnit.HmDianPingApplicationTests.testSvaeShop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b60b5460-f6b2-473b-8ee7-ab2c959e9077" name="Changes" comment="" />
+      <created>1666499367890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666499367890</updated>
+      <workItem from="1666499369156" duration="1266000" />
+      <workItem from="1666500650452" duration="1562000" />
+      <workItem from="1666506631675" duration="404000" />
+      <workItem from="1666616042073" duration="9011000" />
+      <workItem from="1666684821668" duration="3276000" />
+      <workItem from="1666688600449" duration="1231000" />
+      <workItem from="1666697358113" duration="8252000" />
+      <workItem from="1666857199616" duration="5218000" />
+      <workItem from="1666869494428" duration="7416000" />
+      <workItem from="1667567502889" duration="5552000" />
+      <workItem from="1667654603749" duration="4223000" />
+      <workItem from="1667699501508" duration="2776000" />
+      <workItem from="1667825398796" duration="4523000" />
+      <workItem from="1667894655758" duration="1022000" />
+      <workItem from="1667896542268" duration="3327000" />
+      <workItem from="1668000505740" duration="1636000" />
+      <workItem from="1668061237094" duration="1574000" />
+      <workItem from="1668251434236" duration="6768000" />
+      <workItem from="1668308472198" duration="29000" />
+      <workItem from="1668686448847" duration="7002000" />
+      <workItem from="1668744921308" duration="6325000" />
+      <workItem from="1668754240434" duration="936000" />
+      <workItem from="1668770161238" duration="5537000" />
+      <workItem from="1668828066082" duration="1493000" />
+      <workItem from="1668954837977" duration="16000" />
+      <workItem from="1669104925949" duration="19535000" />
+      <workItem from="1669209044756" duration="2512000" />
+      <workItem from="1669214456969" duration="2751000" />
+      <workItem from="1669272322284" duration="6543000" />
+      <workItem from="1669375343488" duration="602000" />
+      <workItem from="1669466630018" duration="621000" />
+      <workItem from="1669530214685" duration="600000" />
+      <workItem from="1669549625395" duration="375000" />
+      <workItem from="1669550036721" duration="1081000" />
+      <workItem from="1671028805167" duration="559000" />
+      <workItem from="1671082581113" duration="116000" />
+      <workItem from="1672313026762" duration="10983000" />
+      <workItem from="1672363060954" duration="1195000" />
+      <workItem from="1673058272466" duration="6736000" />
+      <workItem from="1673515710328" duration="1588000" />
+      <workItem from="1673612929784" duration="1558000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化导入项目">
+      <created>1666499944119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666499944119</updated>
+    </task>
+    <task id="LOCAL-00002" summary="写入Hello Controller， 进行了项目跑通测试。">
+      <created>1666500210349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666500210349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="使用Redis 进行了短信校验登录的功能。">
+      <created>1666625058141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666625058141</updated>
+    </task>
+    <task id="LOCAL-00004" summary="使用Redis 进行了商户查询缓存的功能。">
+      <created>1666876329840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666876329840</updated>
+    </task>
+    <task id="LOCAL-00005" summary="使用Redis 进行了秒杀的的功能。">
+      <created>1669105401261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669105401261</updated>
+    </task>
+    <task id="LOCAL-00006" summary="实战篇其余剩余的功能">
+      <created>1669549750301</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669549750301</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化导入项目" />
+    <MESSAGE value="写入Hello Controller， 进行了项目跑通测试。" />
+    <MESSAGE value="使用Redis 进行了短信校验登录的功能。" />
+    <MESSAGE value="使用Redis 进行了商户查询缓存的功能。" />
+    <MESSAGE value="使用Redis 进行了秒杀的的功能。" />
+    <MESSAGE value="实战篇其余剩余的功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="实战篇其余剩余的功能" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
